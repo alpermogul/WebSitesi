@@ -1,0 +1,35 @@
+.anazemin{background-color:black;width: 1000px;height: 900px;margin: auto;}
+.ust{height: 100px;width: 1000px;background-color: white;}
+.logo img{float: left;height: 100px;margin-left: 10px;}
+.menu{background-color: white;width: 800px;height: 50px;float: left;margin-left: 50px;text-decoration: none;line-height: 100px;}
+.menu a{color: black;display: block;float: left;text-decoration: none;list-style-type: none;margin: 0px 60px 0px 60px;font-weight: bold;}
+.menu a:hover{color: blue;opacity: 1;transition: 0.7s;font-weight: bold;}
+.ortazemin{width: 1000px;height: 700px;background-color: white;}
+.sliderzemin{width:1000px;height: 400px;padding-top: 0px;}
+.ortazemin h1{margin-left: 10px;}
+.footer{width: 1000px;height: 100px;background-color: white;}
+.sprite{width: 171px; height: 114px;float: right;padding-top: 20px;}
+.sprite ul {list-style-type: none;padding: 0px;margin: 0px;margin: auto;}
+.sprite ul li a {background-image: url(sosyal.png);float: left;display: block;text-indent: -1000px;transition: 0.5s;height: 57px;width: 57px;background-color: #4A1818;}
+.twitter a{background-position: 0px 0px;}
+.facebook a{background-position: -57px 0px; }
+.instagram a{background-position: -114px 0px;}
+.twitter a:hover{background-position: 0px -57px;}
+.facebook a:hover{background-position: -57px -57px; }
+.instagram a:hover{background-position: -114px -57px;}
+.yaziyeri{width: 800px;height: 200px;position: absolute;margin-top: 50px;margin-left: 90px;}
+.yaziyeri p{font-size: 25px;text-align: center;}
+.boslukfooter{padding-top: 60px;padding-left: 10px;}
+.yaziyeri h1{text-align: center;}
+.sosyalmedya{width: 980px;height: 500px;background-color: white;padding: 10px;}
+.sosyalmedyaa img{float: left;margin-top: 100px;margin-left: 150px;}
+.sosyalmedya a{color: black;text-decoration: none;margin-left: 320px;}
+.facekucult{margin-top: 0px;}
+.calismalar{float: left;border: 1px solid black;width: 200px;height: 200px;margin: 10px 20px 10px 20px;}
+.ortazemin a:hover{opacity: 0.5;}
+.aciklama{float: left;width: 220px;height: 20px;margin-top: 5px;position: absolute;text-align: center;}
+.calismalarkutu{width: 220px;height: 220px;float: left;margin-top: 50px;margin-left: 20px;}
+.calismalarkutu a:hover{opacity: 0.5;transition: 0.5s;}
+.ortaalanbosluk{margin-top: 100px;position: absolute;text-align: center;width:1000px;height: 500px;padding-top: 50px;}
+.ortaalanbosluk h1{text-align: center;font-size: 100px;}
+.sosyalmedya a:hover{opacity: 0.5;transition: 0.5s;}

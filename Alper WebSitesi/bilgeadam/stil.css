@@ -1,0 +1,25 @@
+.anazemin{width: 900px;height: 400px;background-color: black; margin: auto;}
+.ust{width: 900px;height: 100px;background-color: white;}
+.bilgeadam img{width: 200px;height: 100px;float: left;}
+.menu{width: 680px;height: 90px;background-color: #f3f4f6;float: left;margin-right: 10px;margin-left: 10px;}
+.menu a{display: block;float: left;text-decoration: none;list-style-type: none;line-height: 80px;margin: 0px 30px 0px 30px;}
+.menu a:hover{background-color: #0082b9;color: white;line-height: 90px;}
+.siyah{color: #61645d;}
+.banner{width: 900px;height: 300px;background-color: white;}
+.resim1 img{width: 900px;height: 300px;}
+.zemin2{width: 900px;height: 400px;background-color: #576980;margin:auto;border: 8px solid white;}
+.egitim{width: 250px;height: 200px;background-color: black;float: left;border: 5px solid white;}
+.egitimust{width: 250px;height: 50px;background-color: #0C7BBA;}
+.yazı{color: white;text-align: center;line-height: 2px;}
+.egitimaltı{width: 250px;height: 150px;background-color: #e31938;float: left;}
+.balogo{padding-top: 45px;padding-left: 35px;}
+.egitimyani{width: 630px;height: 200px;float: left;background-color: black;border: 5px solid white;}
+.egitimyanibaslik{width: 630px;height: 50px;background-color: #576980;}
+.egitimyaniresim{width: 210px;height: 150px;background-color: #11b059;float: left;margin-top: 0px;}
+.egitimyaniresim2{width: 210px;height: 150px;background-color: #fb8815;float: left;margin-top: 0px;}
+.egitimyaniresim3{width: 210px;height: 150px;background-color: #874ac4;float: left;margin-top: 0px;}
+.beyaz{color: white;}
+.footer{width: 900px;height: 100px;border-top: 5px solid white;background-color: #576980;clear: both;}
+.footer_left{width: 238px;height: 30px;background-color: #576980;margin-top: 100px;margin-left: 10px;}
+.footer_right{width: 276px;height: 40px;background-color: #576980;float: right;margin-right: 10px;}
+.sosyalmedya{float: right;height: 20px;}

@@ -1,0 +1,254 @@
+.anazemin{
+	width: 1040px;
+	height: 1300px;
+	margin: auto;
+	padding-top: 10px;
+}
+.ust{
+	width: 980px;
+	height: 100px;
+	background-color: white;
+	margin-left: 20px;
+	float: left;
+	margin: auto;
+}
+.menuzemini{
+	width: 650px;
+	height: 50px;
+	background-color: white;
+	margin-left: 300px;
+	margin-top: -30px;
+}
+.menu{
+	list-style-type: none;
+	padding:0px;
+	margin:0px;
+}
+.menu a{
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	width: 120px;
+	height: 50px;
+	line-height: 50px;
+	float: left;
+	margin-right: 2px;
+	border-radius: 10px 10px 0px 0px;
+	background-color: #E1E0E0;
+	color: black;
+}
+.menu a:hover{
+	background-color: #94ba00;
+	color: white;
+}
+.banner{
+	background-image: url(image/header_bg.png);
+	width: 980px;
+	height: 413px;
+	margin-top: 10px;
+	float: left;
+	margin-left: 20px;
+}
+.solbanneri{
+	width: 360px;
+	height: 400px;
+	float: left;
+}
+.solbanneri h1{
+	margin-left: 50px;
+	padding-top: 70px;
+	color: white;
+	font-size: 45px;
+}
+.solbanneri h2{
+	margin-left: 50px;
+	font-size: 35px;
+	margin-top:-40px;
+}
+.solbanneryazısi{
+	width: 300px;
+	height: 100px;
+	margin-left: 55px;
+	float: left;
+	color: white;
+}
+.button{
+	background-image: url(image/button.png);
+	width: 129px;
+	height: 44px;
+	color:#6B8504;
+	line-height: 40px;
+}
+.sagbanneri{
+	width: 600px;
+	height: 400px;
+	float: left;
+	margin-top: 10px;
+}
+.maviresim{
+	margin-left:100px;
+	margin-top:50px;
+}
+.icerikzemin{
+	width: 980px;
+	height: 460px;
+	margin-top: 20px;
+	float: left;
+	margin-left:20px;
+
+}
+.solicerikzemin{
+	width: 300px;
+	height: 400px;
+	margin-left: 50px;
+	float: left;
+}
+.solicerikzemin img{
+	float: left; 
+	margin-right: 15px;
+	margin-left:5px;
+}
+.pyazi{color: #625F5F;}
+.sagicerikzemin{
+	width: 600px;
+	height: 450px;
+	margin-left: 20px;
+	float: left;
+}
+.sagicerikzemin img{
+	float: left;
+	margin-right: 15px;
+	margin-left:15px;
+}
+.sagicerikzemin a{color: black;}
+.sagicerikzemin h2{margin-left: 20px;}
+.button2{
+	background-image: url(image/button.png);
+	width: 129px;
+	height: 44px;
+	margin-left: 450px;
+	text-align: center;
+	line-height: 40px;
+}
+.footer{
+	width: 1000px;
+	height: 250px;
+	background-color: #CDC6C6;
+	float: left;
+	margin-left: 20px;
+}
+.formyazi{}
+.footersol{
+	width: 300px;
+	height: 230px;
+	margin-left: 30px;
+	float: left;
+	margin-top:10px;
+}
+.footersol h2{
+	margin-left: 40px;
+	padding-top: 40px;
+}
+.footersol input{
+	color: #625F5F;
+	width: 200px;
+	height: 25px;
+	margin-left: 40px;
+	border-radius: 10px;
+}
+.supportsag{
+	width: 600px;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+	background-color: white;
+}
+.button3{
+	background-image: url(image/button.png);
+	width: 129px;
+	height: 44px;
+	margin-left: 40px;
+	text-align: center;
+	line-height: 40px;
+	margin-top: 25px;
+}
+.footersolorta{
+	width: 200px;
+	height: 230px;
+	float: left;
+	margin-left: 10px;
+	margin-top:10px;
+}
+.footersolorta h2{
+	margin-left: 40px;
+	padding-top: 40px;
+}
+.footersolorta a{color: black;}
+.footersagorta{
+	width: 200px;
+	height: 230px;
+	float: left;
+	margin-left: 10px;
+	margin-top:10px;
+}
+.footersagorta h2{
+	margin-left: 40px;
+	padding-top: 40px;
+}
+.footersagorta img{margin-left: 15px;margin-right:10px;margin-top:5px;}
+.footersagorta a{color: black;}
+.footersag{
+	width: 230px;
+	height: 230px;
+	float: left;
+	margin-left: 10px;
+	margin-top:10px;
+}
+.footersag h2{
+	margin-left: 40px;
+	padding-top: 40px;
+}
+.footersag a{color: green;}
+.footersag p{margin-left:10px;}
+.header{margin-left:20px;}
+.supporticeriksol{
+	width: 350px;
+	height: 550px;
+	float: left;
+	margin-left:20px;
+	background-color: white;
+}
+.supporticeriksol h1{margin-left:30px;}
+.supporticeriksol img{margin-left:10px;float: left;margin-right:10px;}
+.supportyazisi{margin-left: 10px;color: #625F5F;}
+h1{margin-left: 15px;}
+h3{margin-left: 10px;}
+.supportzemin{width: 1040px;
+height: 1005px;
+margin:auto;
+padding-top:10px;
+}
+.gray{color: #625F5F;}
+.icerikana{width: 1040px;height: 500px;background-color: gray;}
+.topfeatures{width: 300px;height: 420px;float: left;margin: 20px 10px 20px 10px;background-color: white;line-height: 27px;}
+.topfeatures a{color: black;}
+.iceriksol{width:700px;height: 500px;background-color: white;float: right;margin-top: -440px;}
+.icerikici{width: 330px;height: 410px;background-color: white;float: left;margin:5px 5px 5px 5px;}
+.icerikr img{width: 50px;height: 50px;background-color: white;float: left;margin: 0px 5px 5px 5px;}
+.graye{color: #625F5F;float: left;}
+.icerikasd{width: 330px;height: 410px;background-color: white;position: absolute;float: right;margin-top: 145px;margin-left: 680px;background-color: white;float: right;}
+.button4{background-image: url(image/button.png);
+	width: 129px;
+	height: 44px;
+	margin-left: 200px;
+	text-align: center;
+	line-height: 40px;
+	margin-top: 25px;
+	margin-top: 200px;
+
+}
+.contactsol{width: 400px;height: 500px;background-color: white;float: left;}
+.contactsag{width: 500px;height: 500px;background-color: white;float: left;margin-left: 10px;}
+.email input{margin-left: 15px;}
+.contactsag textarea{margin-left: 100px;border-radius: 10px;width: 350px;height: 200px;float: left;margin-top: -20px;}
+

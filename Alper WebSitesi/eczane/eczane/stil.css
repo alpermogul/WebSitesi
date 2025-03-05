@@ -1,0 +1,31 @@
+.anazemin{width: 1080px;height: 1200px;background-color: white;margin: auto;}
+.menu{width: 1080px;background-color: white;margin-top: 10px;list-style-type: none;font-size: 20px;}
+.menu a{display: block;float: left;list-style-type: none;text-decoration: none;color: black;line-height: 0px;}
+.menu a:hover{opacity: 0.5;}
+.solalan{float: left;width:200px;height:830px;background-color: white;margin-top: 35px;}
+.solalanyazi{margin-top: 35px;width: 200px;margin-bottom: 35px;}
+.mavi{color:#3992BB;text-decoration: none;}
+.mavi a{color: #3992BB;text-decoration: none;list-style-type: none;font-size: 17px;}
+.sagalan{float: right;width:200px;height:830px;background-color: white;margin-top: 35px;}
+.sagalanyazi{margin-top: 35px;width: 200px;margin-bottom: 35px;}
+.ortaalan{width: 660px;height: 830px;background-color: white;float: left;margin-top: 35px;margin-left: 5px;}
+.ortaresim img{margin-top: 30px;margin-left: 70px;}
+.urunler{width: 660px;height: 486px;background-color: white;margin-top: 10px;}
+.urunleri img{width: 120px;height: 80px;float: left;margin: 10px 45px 10px 45px;} 
+.urunleri li{float: left;list-style-type: none;margin-right: 75px;margin-left: 55px;}
+.kirmizi li{color: #FF0000;}
+.sagalan input{width: 100px;float: right;margin-top: -30px;}
+.sagalan p{font-size: 13px;}
+.indirimli img{width: 120px;height: 80px;float: left;margin: 10px 105px 10px 105px;}
+.indirimliyazi{margin-top: 5px;float: left;}
+.maviyazi{color: #0018FF;}
+.kirmiziyazi{color: #FF0000;}
+
+
+
+
+
+
+
+
+

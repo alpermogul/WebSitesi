@@ -1,0 +1,13 @@
+
+Zeminde #1A3752 – #91A0AD arasýnda linear degrade uygulayýn
+Sayfa için 960px*850px olan bir kutu oluþturun
+
+Yazý Fontlarýný sizlere gönderilen çalýþmayý inceleyerek aynýsýný , eðer yoksa onlara yakýn bir font seçin
+
+Logo ve üst bölüm geniþliði 220px
+Menü yüksekliði 50px
+Küçük resim boyutlarý 204px*107px
+Sol ve Sað kutu 453px*247px
+Alt bölüm yüksekliði 140px olacak.
+Menü ve kutular için kullanýlacak zemin rengi : #005E98
+Alt bölüm zemin rengi : #33FF66
